@@ -20,9 +20,10 @@ async function invokeAction ({ action, id, name, email, phone }) {
         console.table(getAllContacts, ['id', 'name', 'email', 'phone']);
         break;
 
-    // case "get":
-    //   // ... id
-    //   break;
+    case "get":
+          const contact = await contacts.getContactById(id);
+          console.log(contact);
+        break;
 
     // case "add":
     //   // ... name email phone
