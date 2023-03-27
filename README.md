@@ -2,6 +2,8 @@
 
 Node commands results:
 
-https://ibb.co/Jc5YZJD  - list of contacts,
+https://ibb.co/Jc5YZJD  -  list of contacts,
 
-https://ibb.co/qWZy700  - single contact recieved by id
+https://ibb.co/qWZy700  -  single contact recieved by entering id,
+
+https://ibb.co/TtZk8j8  -  add a new contact
